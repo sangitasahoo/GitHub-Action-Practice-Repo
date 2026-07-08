@@ -1,4 +1,4 @@
-# This code is a pyhon code
+# This code is a pyhon code flask app
 from flask import Flask, render_template
 app = Flask(__name__)
 
